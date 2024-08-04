@@ -1,7 +1,7 @@
 function Experience() {
   return (
     <>
-      <div className="lg:ml-14 mx-auto sm:ml-14">
+      <div className="mx-auto md:ml-14">
         <p className="text-black text-4xl font-light">Working Experience</p>
         <ul className="list-none mt-12">
           <li className="flex items-center">
