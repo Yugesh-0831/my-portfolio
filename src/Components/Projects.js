@@ -18,6 +18,7 @@ function Projects() {
               className="transition-transform duration-200 ease-in-out hover:scale-105 mb-10 mx-auto"
               href="https://github.com/Yugesh-0831/tokyo-flares"
               target="_blank"
+              rel="noreferrer"
             >
               <img alt="" className="rounded-lg h-64 w-64" src={tokyoFlares} />
               <p className="mt-7 text-black font-light text-2xl">
@@ -31,6 +32,7 @@ function Projects() {
               className="transition-transform duration-200 ease-in-out hover:scale-105 mb-10 mx-auto"
               href="https://github.com/Yugesh-0831/Sociaux-Hub"
               target="_blank"
+              rel="noreferrer"
             >
               <img alt="" className="rounded-lg h-64 w-64" src={sociauxHub} />
               <p className="mt-7 text-black font-light text-2xl">Sociaux Hub</p>
@@ -42,6 +44,7 @@ function Projects() {
               className="transition-transform duration-200 ease-in-out hover:scale-105 mb-10 mx-auto"
               href="https://github.com/Yugesh-0831/falcon-airlines-frontend"
               target="_blank"
+              rel="noreferrer"
             >
               <img
                 alt=""

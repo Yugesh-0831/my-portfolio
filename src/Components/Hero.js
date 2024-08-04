@@ -18,6 +18,7 @@ function Hero() {
             <a
               href="https://www.instagram.com/yugeshjhamb0731/"
               target="_blank"
+              rel="noreferrer"
               className="mr-2"
             >
               Instagram
@@ -26,6 +27,7 @@ function Hero() {
             <a
               href="https://www.instagram.com/yugeshjhamb0731/"
               target="_blank"
+              rel="noreferrer"
               className="mr-2 ml-2"
             >
               Github
@@ -34,6 +36,7 @@ function Hero() {
             <a
               href="https://www.instagram.com/yugeshjhamb0731/"
               target="_blank"
+              rel="noreferrer"
               className="ml-2"
             >
               Linkedin
