@@ -19,7 +19,7 @@ function Projects() {
               href="https://github.com/Yugesh-0831/tokyo-flares"
               target="_blank"
             >
-              <img className="rounded-lg h-64 w-64" src={tokyoFlares} />
+              <img alt="" className="rounded-lg h-64 w-64" src={tokyoFlares} />
               <p className="mt-7 text-black font-light text-2xl">
                 Tokyo Flares
               </p>
@@ -32,7 +32,7 @@ function Projects() {
               href="https://github.com/Yugesh-0831/Sociaux-Hub"
               target="_blank"
             >
-              <img className="rounded-lg h-64 w-64" src={sociauxHub} />
+              <img alt="" className="rounded-lg h-64 w-64" src={sociauxHub} />
               <p className="mt-7 text-black font-light text-2xl">Sociaux Hub</p>
               <p className="mt-3 text-black font-light text-lg text-opacity-60">
                 Social Media Website
@@ -43,7 +43,11 @@ function Projects() {
               href="https://github.com/Yugesh-0831/falcon-airlines-frontend"
               target="_blank"
             >
-              <img className="rounded-lg h-64 w-64" src={falconAirlines} />
+              <img
+                alt=""
+                className="rounded-lg h-64 w-64"
+                src={falconAirlines}
+              />
               <p className="mt-7 text-black font-light text-2xl">
                 Falcon Airlines
               </p>
