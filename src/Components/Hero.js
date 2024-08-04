@@ -42,7 +42,7 @@ function Hero() {
         </div>
         <div className="mt-14 mb-2 flex justify-between flex-col lg:flex-row">
           <div className="">
-            <img className="w-40 h-25" src={heroImg} />
+            <img className="w-40 h-25" src={heroImg} alt="" />
             <p className="ml-10 text-4xl max-w-[300px] text-black">
               Hello! I'm Yugesh Jhamb
             </p>

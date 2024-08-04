@@ -6,6 +6,7 @@ function Experience() {
         <ul className="list-none mt-12">
           <li className="flex items-center">
             <img
+              alt=""
               className="h-11 w-12 rounded-lg"
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtKdHuYy2yCuP2WGwhSy5_LWPdv8gWq9coQ&s"
             />
@@ -19,6 +20,7 @@ function Experience() {
           <hr className="max-w-[450px] my-7 border-black border-opacity-10" />
           <li className="flex items-center">
             <img
+              alt=""
               className="h-11 w-12  rounded-lg"
               src="https://mma.prnewswire.com/media/1232343/Coforge_Logo.jpg?p=twitter"
             />
