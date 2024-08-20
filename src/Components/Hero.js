@@ -25,7 +25,7 @@ function Hero() {
             </a>
             <p>/</p>
             <a
-              href="https://www.instagram.com/yugeshjhamb0731/"
+              href="https://github.com/Yugesh-0831"
               target="_blank"
               rel="noreferrer"
               className="mr-2 ml-2"
@@ -34,7 +34,7 @@ function Hero() {
             </a>
             <p>/</p>
             <a
-              href="https://www.instagram.com/yugeshjhamb0731/"
+              href="https://www.linkedin.com/in/yugesh-jhamb-494924204/"
               target="_blank"
               rel="noreferrer"
               className="ml-2"
