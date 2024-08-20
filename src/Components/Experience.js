@@ -13,7 +13,7 @@ function Experience() {
             <div className="ml-3">
               <p>SDE Intern at Fourkites</p>
               <p className="text-sm text-black text-opacity-50">
-                June 2023 - July 2024
+                June 2023 - May 2024
               </p>
             </div>
           </li>
@@ -25,9 +25,9 @@ function Experience() {
               src="https://mma.prnewswire.com/media/1232343/Coforge_Logo.jpg?p=twitter"
             />
             <div className="ml-3">
-              <p>SDE Intern at Fourkites</p>
+              <p>SDE Intern at Coforge</p>
               <p className="text-sm text-black text-opacity-50">
-                June 2023 - July 2024
+                June 2022 - July 2022
               </p>
             </div>
           </li>
