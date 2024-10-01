@@ -16,7 +16,7 @@ function Projects() {
           <div className="flex flex-col lg:flex-row justify-between list-none mt-12">
             <a
               className="transition-transform duration-200 ease-in-out hover:scale-105 mb-10 mx-auto"
-              href="https://github.com/Yugesh-0831/tokyo-flares"
+              href="https://tokyo-flares.vercel.app/"
               target="_blank"
               rel="noreferrer"
             >
@@ -30,7 +30,7 @@ function Projects() {
             </a>
             <a
               className="transition-transform duration-200 ease-in-out hover:scale-105 mb-10 mx-auto"
-              href="https://github.com/Yugesh-0831/Sociaux-Hub"
+              href="https://sociaux-hub.vercel.app/"
               target="_blank"
               rel="noreferrer"
             >
@@ -42,7 +42,7 @@ function Projects() {
             </a>
             <a
               className="transition-transform duration-200 ease-in-out hover:scale-105 mb-10 mx-auto"
-              href="https://github.com/Yugesh-0831/falcon-airlines-frontend"
+              href="https://falcon-airlines.vercel.app/login"
               target="_blank"
               rel="noreferrer"
             >
